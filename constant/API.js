@@ -11,7 +11,7 @@
 const URL="http://192.168.8.101:8080/api/";
 const IMAGE_URL="http://192.168.8.101:8080/";
 const Admin_IMAGE_URL="192.168.8.101:8080/storage/";
-const GOOGLE_KEY="AIzaSyAZO-tKQkZy9E0hCiV8iEKvsazcBNH4evI";
+const GOOGLE_KEY="";
 
 
 
